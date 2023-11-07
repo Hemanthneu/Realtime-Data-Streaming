@@ -6,7 +6,8 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System_architecture.png](assets%2FSystem_architecture.png)
+![Uploading System_architecture.png…]()
+
 
 The project is designed with the following components:
 
